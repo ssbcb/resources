@@ -1,4 +1,4 @@
-# كتب مهمة ومصادر مفيدة في مجال المعلوماتية الحيوة والعلوم الطبية 
+# كتب مهمة ومصادر مفيدة في مجال المعلوماتية الحيوية والعلوم الطبية 
 ## Bioinformatics
 - __[Applied Bioinformatics, An Introduction](https://drive.google.com/file/d/1c2Oij6dK7SmQtM2_lWsmQxD7ZDc3lFWh/view?usp=sharing)__
 - __[Bioinformatics Volume I: Data, Sequence Analysis, and Evolution](https://drive.google.com/file/d/1zeNPC1Nx4qQ8AHDp30VRaRdm5h7jWh4R/view?usp=sharing)__
