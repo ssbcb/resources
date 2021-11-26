@@ -21,7 +21,6 @@
 - __[Buyer’s Guide: Next-Generation Sequencing Systems](https://drive.google.com/file/d/1gx1WcKcWJjOWkoGqZrFtz61_prPQQSUx/view?usp=sharing)__
 - __[Dimensionless Numbers](https://drive.google.com/file/d/13zGror64VomDOuiQEOuVJjoy0q3otePU/view?usp=sharing)__
 - __[Excel Data Analysis: Modeling and Simulation](https://drive.google.com/file/d/1XU06tzRpVkm8rWd7jP55WLnvKzCtIkxP/view?usp=sharing)__
-- __[LATEX in 24 Hours](https://drive.google.com/file/d/1EBigffoZk4GBey11Th9gQ3z-1kwpufvr/view?usp=sharing)__
 - __[Lessons on Synthetic Bioarchitectures](https://drive.google.com/file/d/1PXsb-r1gfqShd1Y8qNsHZ_q-j3mymZVg/view?usp=sharing)__
 - __[Methods of Mathematical Modelling](https://drive.google.com/file/d/1jGAX-WYdRbvI-I2gyf_ODQJTum5dZEr2/view?usp=sharing)__
 - __[Statistics and Analysis of Scientifc Data](https://drive.google.com/file/d/13W6Z1lRzI7NBZGaatn9drXuJn9AfGsSd/view?usp=sharing)__
@@ -29,6 +28,7 @@
 - __[THE Data Science Design MANUAL](https://drive.google.com/file/d/1Y5OlsdjXRr9n3KUsW0r_PwlOV0ITmPZn/view?usp=sharing)__
 - __[The Elements Of Statistical Learning](https://drive.google.com/file/d/1yLhiJDOAZ2RedzRC5eFpDMoggo4NmQBU/view?usp=sharing)__
 ## Mics
+- __[LATEX in 24 Hours](https://drive.google.com/file/d/1EBigffoZk4GBey11Th9gQ3z-1kwpufvr/view?usp=sharing)__
 - __[Mass Spectrometry](https://drive.google.com/file/d/1GhwNuTRERTQWEpM2H0sp98TNRXzp3jEb/view?usp=sharing)__
 - __[Metabolism of Human Diseases](https://drive.google.com/file/d/1dCbnUSkmEZBLbqnRjYgH-VEMzfGwarJT/view?usp=sharing)__
 - __[Modeling Life](https://drive.google.com/file/d/1oVWBETZd63XhppWbOZjjYg3EZ_VGrwF-/view?usp=sharing)__
