@@ -44,5 +44,5 @@
 - __[Statistics at Square One](https://drive.google.com/file/d/1UOeX52_UciLA2wH9KYQzU1C5liJsi97C/view?usp=sharing)__
 - __[Statistics at Square Two Understanding Modern Statistical Applications in Medicine](https://drive.google.com/file/d/1kWOwA7UWgaPnJ7UytbQSljCjpgWzyIwv/view?usp=sharing)__
 ## Sed and Awk 101 Hacks
--__[Sed and Awk 101 Hacks](https://sa1lib.org/book/3425693/2f9e50)
+-*[Sed and Awk 101 Hacks]* (https://sa1lib.org/book/3425693/2f9e50)
 - [sed, a stream editor](https://www.gnu.org/software/sed/manual/sed.html)
