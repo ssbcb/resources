@@ -11,6 +11,10 @@
 - __[Python  Data Science Handbook](https://drive.google.com/file/d/1sy6yTNWvFxecuNmedeG8ZVNDJq-7Ly7Y/view?usp=sharing)__
 - __[The Algorithm Design Manual](https://drive.google.com/file/d/1vtemwiILEf-oWE8Bn50iLA63wo3zZR9Q/view?usp=sharing)__
 - __[The Ultimate Guide to Basic Data Cleaning](https://drive.google.com/file/d/1g2Lt8C08Yha_r2o4enr7kFf8edyoVv0Y/view?usp=sharing)__
+-  **[Linux Command Line and Shell Scripting Bible](https://sa1lib.org/book/510394/c735a7)**
+-  **[Learning Perl: Making Easy Things Easy and Hard Things Possible, 7th Edition](https://sa1lib.org/book/2956491/68c252)**
+-  **[Learn Python 3 the Hard Way](https://learnpythonthehardway.org/book/)
+-  **[Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code](https://sa1lib.org/book/3492905/ebdb92)**
 ## R
 - __[A Beginner’s Guide to R](https://drive.google.com/file/d/1CSMujkR0XX66ENUSWVv7SYLzHQRrd-9L/view?usp=sharing)__
 - __[Bayesian Essentials with R](https://drive.google.com/file/d/1cAitQTKzqEg_dxU9nf3adkqux_jiwsMB/view?usp=sharing)__
